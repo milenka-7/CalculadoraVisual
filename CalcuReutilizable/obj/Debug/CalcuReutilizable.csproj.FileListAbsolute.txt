@@ -1,0 +1,10 @@
+C:\Users\Milenka\source\repos\CalcuReutilizable\CalcuReutilizable\obj\Debug\CalcuReutilizable.csprojAssemblyReference.cache
+C:\Users\Milenka\source\repos\CalcuReutilizable\CalcuReutilizable\obj\Debug\CalcuReutilizable.Form1.resources
+C:\Users\Milenka\source\repos\CalcuReutilizable\CalcuReutilizable\obj\Debug\CalcuReutilizable.Properties.Resources.resources
+C:\Users\Milenka\source\repos\CalcuReutilizable\CalcuReutilizable\obj\Debug\CalcuReutilizable.csproj.GenerateResource.cache
+C:\Users\Milenka\source\repos\CalcuReutilizable\CalcuReutilizable\obj\Debug\CalcuReutilizable.csproj.CoreCompileInputs.cache
+C:\Users\Milenka\source\repos\CalcuReutilizable\CalcuReutilizable\bin\Debug\CalcuReutilizable.exe.config
+C:\Users\Milenka\source\repos\CalcuReutilizable\CalcuReutilizable\bin\Debug\CalcuReutilizable.exe
+C:\Users\Milenka\source\repos\CalcuReutilizable\CalcuReutilizable\bin\Debug\CalcuReutilizable.pdb
+C:\Users\Milenka\source\repos\CalcuReutilizable\CalcuReutilizable\obj\Debug\CalcuReutilizable.exe
+C:\Users\Milenka\source\repos\CalcuReutilizable\CalcuReutilizable\obj\Debug\CalcuReutilizable.pdb
